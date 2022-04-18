@@ -25,7 +25,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 
 
-# 📬 Blog
+# 📬 My Tech Blog
 
 ---
 
