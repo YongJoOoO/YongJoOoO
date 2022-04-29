@@ -30,6 +30,3 @@
 ---
 
 [https://ccclean.tistory.com/](https://ccclean.tistory.com/)
-
-
-<img width="329" alt="프로그래머스" src="https://user-images.githubusercontent.com/39732720/165648912-f390a297-7bb6-44c7-973f-2ce9baf14226.png">
