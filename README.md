@@ -29,3 +29,5 @@
 # 📬 My Tech Blog
 
 [https://ccclean.tistory.com/](https://ccclean.tistory.com/)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=END&fontSize=55)
