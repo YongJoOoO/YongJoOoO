@@ -26,9 +26,12 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 # 📬 My Tech Blog
+<a href="https://ccclean.tistory.com/ ">
+<img
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ccclean.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
  
-</a> <a href = "https://ccclean.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
-
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
