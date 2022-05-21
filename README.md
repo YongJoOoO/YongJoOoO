@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJoOoO&show_icons=true&theme=omni)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJoOoO&layout=compact)](https://github.com/YongJoOoO/github-readme-stats)
+
 
 # 🛠 Tech Stack 🛠
 
