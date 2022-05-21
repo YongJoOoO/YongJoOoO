@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=👏YONGJoOoO's%20GitHub👏&fontSize=37)
 
 <div align=center>
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongJoOoO&count_bg=%23FCC5C5&title_bg=%23FC7373&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![YongJoOoO's github stats](https://github-readme-stats.vercel.app/api?username=YongJoOoO&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJoOoO&layout=compact)](https://github.com/YongJoOoO/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJoOoO&show_icons=true&theme=omni)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongJoOoO&count_bg=%23FCC5C5&title_bg=%23FC7373&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 # 🛠 Tech Stack 🛠
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
@@ -27,5 +27,9 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 # 📬 My Tech Blog
+ 
+</a> <a href = "https://ccclean.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
