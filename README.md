@@ -6,8 +6,9 @@
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-**Platform & Languages**
 <p align="center">
+**Platform & Languages**
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
