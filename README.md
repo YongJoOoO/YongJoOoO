@@ -4,8 +4,14 @@
  
 ![YongJoOoO's github stats](https://github-readme-stats.vercel.app/api?username=YongJoOoO&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJoOoO&layout=compact)](https://github.com/YongJoOoO/github-readme-stats)
 
+ <a href="https://ccclean.tistory.com/ ">
+<img
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ccclean.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongJoOoO&count_bg=%23FCC5C5&title_bg=%23FC7373&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+
 # 🛠 Tech Stack 🛠
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
@@ -25,13 +31,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-# 📬 My Tech Blog
-<a href="https://ccclean.tistory.com/ ">
-<img
-src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://ccclean.tistory.com/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- 
-</div>
+ </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
