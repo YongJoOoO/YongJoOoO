@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=YONGJoOoO&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=👏YONGJoOoO's%20GitHub👏&fontSize=37)
 
-# 👏 YongJoOoO’s  GitHub 👏
+<div align=center>
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongJoOoO&count_bg=%23FCC5C5&title_bg=%23FC7373&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJoOoO&show_icons=true&theme=omni)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJoOoO&layout=compact)](https://github.com/YongJoOoO/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJoOoO&show_icons=true&theme=omni)
 
 # 🛠 Tech Stack 🛠
 
@@ -26,10 +25,9 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
+ 
+</div>
 
 # 📬 My Tech Blog
 
-[https://ccclean.tistory.com/](https://ccclean.tistory.com/)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=END&fontSize=55)
+ <a href="[url](https://ccclean.tistory.com/)" > <h3>:muscle: My Tistory Blog </h3> </a>
